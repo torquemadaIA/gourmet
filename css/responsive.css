@@ -1,0 +1,48 @@
+@media (max-width:1024px) {
+
+    /*about section*/
+
+}
+
+@media (max-width: 991px) {
+
+    /*custom classes */
+    .text-content{
+        width: 100%;
+    }
+
+    /*narbar */
+    .navigation-wrap .navbar-brand img{
+        height: 3.8125rem;
+    }
+    .navigation-wrap{
+        text-align: center;
+        background-color: var(--white-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+
+    }
+    /*benner desing */
+
+    /*carousel deing */
+
+
+}
+
+@media (max-width:762px) {
+    /*custom css */
+
+    /*top banner */
+
+    /*story section*/
+
+    /*newslettar */
+
+    /*footer link */
+}
+
+@media (max-width:330px){
+
+   /* carrousel desing */
+}
